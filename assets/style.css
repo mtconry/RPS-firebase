@@ -1,0 +1,56 @@
+body {
+    background-image: url("https://ksr-ugc.imgix.net/assets/017/463/773/8d140829dc9e9ece410e84419c73453e_original.png?ixlib=rb-1.1.0&crop=faces&w=1552&h=873&fit=crop&v=1499794689&auto=format&frame=1&q=92&s=9a556eef4bb4609ab2854459e74c2459");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+h1 {
+    font-size: 56px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+.panel-default {
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+
+}
+.panel-body {
+    text-align: center;
+}
+
+.stats {
+    text-align: center;
+}
+
+.aRight {
+    text-align: right;
+}
+.aLeft {
+    text-align: left;
+}
+#bottomDiv {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+}
+#header {
+    margin-bottom: 25px;
+
+}
+#heightBar {
+    height: 250px;
+
+}
+#playerIntro,
+#turnStatus {
+    text-align: center;
+}
+
+#chatTextArea {
+    font-size: 14px;
+    font-weight: normal;
+    
+}
